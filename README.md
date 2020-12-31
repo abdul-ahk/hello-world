@@ -1,3 +1,5 @@
 # hello-world
 
-This the main branch readme file.
+This is the main branch readme file.
+
+We are trying to learn Github.
